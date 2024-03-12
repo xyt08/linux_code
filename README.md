@@ -1,2 +1,2 @@
 # linux_code
-linux学习的代买
+linux学习的代码
