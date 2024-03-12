@@ -1,2 +1,2 @@
 # linux_code
-linux学习的代码
+linux学习中的代码
