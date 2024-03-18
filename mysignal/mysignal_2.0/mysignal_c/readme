@@ -1,0 +1,15 @@
+mykill.c
+kill: 给任何进程发任何信号
+目的:实现一个kill的系统调用。
+列如:kill -9 11222
+方案: 两个进程一个是用于测试的test.c,一个是kill.c用来模拟系统调用的.
+
+myraise.c
+raise: 给自己发任意信号。
+1.内容是raise的使用。
+2.用kill对raise实现封装。
+
+myabort.c
+abort: 给自己发任意信号。
+1.内容是abort的使用。
+2.用kill对abort实现封装。
